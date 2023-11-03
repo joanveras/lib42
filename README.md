@@ -1,5 +1,5 @@
 
-# Libft
+# lib42
 
 ## Description
 The Libft project is a C library that contains functions that simulate the functionalities of the ctype.h library and some others. It was developed as part of the school 42 curriculum to provide custom implementations of standard C language functions.
